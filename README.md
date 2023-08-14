@@ -1,2 +1,2 @@
 # Text_Attack_Exp_2_Composite_Trans
-Composite transformation and BeamSearch Method on TextAttack
+Composite transformation and BeamSearch Method using TextAttack library.
